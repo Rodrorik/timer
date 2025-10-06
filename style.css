@@ -14,8 +14,13 @@ h2 {
     font-size: 5rem;
     color: #38bdf8;
 }
+h3 {
+    font-size: 3rem;
+    color: #7dd3fc;
+}
 
 #timeago {
     font-size: 10rem;
     margin-top: 8px;
 }
+
