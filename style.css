@@ -7,20 +7,22 @@ body {
 }
 
 h1 {
+    margin-top: -50px;
     font-size: 8rem;
     color: #7dd3fc;
 }
 h2 {
+    margin-top: -30px;
     font-size: 5rem;
     color: #38bdf8;
 }
 h3 {
+    margin-top: -20px;
     font-size: 3rem;
     color: #7dd3fc;
 }
 
 #timeago {
-    font-size: 10rem;
-    margin-top: 8px;
+    font-size: 8rem;
+    margin-top: -100px;
 }
-
